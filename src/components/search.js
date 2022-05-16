@@ -20,7 +20,7 @@ const Search = ({ handleSearch }) => {
     <form onSubmit={handleSubmit}>
             <div style={{ margin: "0 auto" }}>
               <label htmlFor="Search" style={{ paddingRight: "10px" }}>
-                Enter your search here
+                Enter your search
               </label>
               <input
                 id="Search"
